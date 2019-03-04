@@ -1,0 +1,1 @@
+Le ping de router1 vers server1 ne fonctionne pas car server1 ne connais pas la route qui lui permet de répondre à router1
