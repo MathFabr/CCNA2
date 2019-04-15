@@ -1,4 +1,4 @@
-Lab 2
+Lab 1
 --------
 
 
@@ -21,4 +21,4 @@ Le Client2 ne peut pas Ping le client1 ni le client3
 
 Par contre le client1 et le client3 peuvent se ping
 
-	(voir "ping_client1_client3_tp3_lab1)
+	![ping entre client 1 et client 3](image/ping_client1_client3_tp3_lab1.jpg)
