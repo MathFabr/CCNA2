@@ -21,4 +21,4 @@ Le Client2 ne peut pas Ping le client1 ni le client3
 
 Par contre le client1 et le client3 peuvent se ping
 
-	![ping entre client 1 et client 3](image/ping_client1_client3_tp3_lab1.jpg)
+	![ping entre client 1 et client 3](https://github.com/MathFabr/CCNA2/blob/master/TP3/image/ping_client1_client3_tp3_lab1.jpg)
